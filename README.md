@@ -1,2 +1,3 @@
 # fuzz-corpus
-fuzz corpus seed
+
+ fuzz corpus seed
